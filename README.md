@@ -26,8 +26,13 @@
    4. Type `streamlit run App.py`
  
 # Streamlit App Interface
+<h1 align="center">
+ 
+![alt text](https://github.com/Anashafi07/Heart-Attack-Prediction/blob/main/Statics/Streamlit_1.png)
 
-![alt text](https://github.com/[Anashafi07]/[Heart-Attack-Prediction]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Anashafi07/Heart-Attack-Prediction/blob/main/Statics/Stereamlit_2.png)
+
+# EDA
 
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate data explorer from Terengganu!</h3>
